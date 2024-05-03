@@ -1,5 +1,9 @@
 For non commercial use
 
+These prorams are for for anyone that lives in the command line interface (ie cmd.exe) and
+changes folders at a whim. while this shows only one slot being saved, it will be enhanced to
+save many slots with additional enhancments.
+
 The core of this Project are two files, SavePath.cmd and Return.cmd,
 
 both will be simplified to sp.cmd and rt.cmd for efficiency sake.
@@ -28,9 +32,10 @@ the command will return you to the folder where you saved the path (slot)
 | Numbers | numbers slots 1-9 |
 | Letters | lettered slots A-G |
 | Global |  makes the slot global|
-| Help | shows the Help file |
+| Help | shows the help file |
 | Name | names a folder, very powerful |
 | Purge | purges slots |
+| Dekete | deletes slots |
 | Restore | restores slots from file |
 | Save | saves slots to file |
 | Show | shows the used slots |
