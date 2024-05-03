@@ -29,7 +29,7 @@ the command will return you to the folder where you saved the path (slot)
 
 | Future arguments | explanation |
 | --- | --- |
-| Numbers | numbers slots 1-9 |
+| Numbers | numbered slots 1-9 |
 | Letters | lettered slots A-G |
 | Global |  makes the slot global|
 | Help | shows the help file |
