@@ -27,7 +27,7 @@ in the folder, type in rt.cmd and press enter.
 
 the command will return you to the folder where you saved the path (slot)
 
-| Future parameters | explanation |
+| Future arguments | explanation |
 | --- | --- |
 | Numbers | numbers slots 1-9 |
 | Letters | lettered slots A-G |
