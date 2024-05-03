@@ -35,7 +35,7 @@ the command will return you to the folder where you saved the path (slot)
 | Help | shows the help file |
 | Name | names a folder, very powerful |
 | Purge | purges slots |
-| Dekete | deletes slots |
+| Delete | deletes slots |
 | Restore | restores slots from file |
 | Save | saves slots to file |
 | Show | shows the used slots |
