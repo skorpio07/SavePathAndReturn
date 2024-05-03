@@ -8,7 +8,6 @@ both will be simplified to sp.cmd and rt.cmd for efficiency sake.
 | --- | --- | --- |
 | SavePath.cmd | sp.cmd | `set "ReturnSlot=%cd%"` |
 | Return.cmd | rt.cmd | `cd /D %ReturnSlot%` |
-| NewFile.cmd | nf.cmd | `new command` |
 
 Save the two files in a folder that is in the %PATH% variable
 
