@@ -35,3 +35,4 @@ the command will return you to the folder where you saved the path (slot)
 | Save | saves slots to file |
 | Show | shows the used slots |
 | Ver | shows the slot version |
+| Misc | additional error control |
