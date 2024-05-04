@@ -1,8 +1,8 @@
 For non commercial use
 
-For commercial use, apps have been developed and are in testing.
+For commercial use, apps have been developed and are in testing. Stay tuned.
 
-These prorams are for for anyone that lives in the command line interface (ie cmd.exe) and
+These prorams are for anyone that lives in the command line interface (ie cmd.exe) and
 changes folders at a whim. while this shows only one slot being saved, it will be enhanced to
 save many slots with additional enhancments.
 
@@ -33,7 +33,7 @@ The command will return you to the folder where you saved the path (slot).
 
 Will be updating the apps every week or two till complete.
 
-| Future arguments | Explanation |
+| Future parameters | Explanation |
 | --- | --- |
 | Numbers | numbered slots 1-9 |
 | Letters | lettered slots A-G |
@@ -46,6 +46,6 @@ Will be updating the apps every week or two till complete.
 | Save | saves slots to file |
 | Show | shows the used slots |
 | Ver | shows the savepath version |
-| Misc | additional error control |
+| Misc | error control |
 | Misc | save to program files x86 |
 
