@@ -1,4 +1,5 @@
 For non commercial use
+For commercial use, apps have been developed and are in testing.
 
 These prorams are for for anyone that lives in the command line interface (ie cmd.exe) and
 changes folders at a whim. while this shows only one slot being saved, it will be enhanced to
@@ -6,28 +7,32 @@ save many slots with additional enhancments.
 
 The core of this Project are two files, SavePath.cmd and Return.cmd,
 
-both will be simplified to sp.cmd and rt.cmd for efficiency sake.
+Both will be simplified to sp.cmd and rt.cmd for efficiency sake.
 
 | File | Short Form | Contents |
 | --- | --- | --- |
 | SavePath.cmd | sp.cmd | `set "ReturnSlot=%cd%"` |
 | Return.cmd | rt.cmd | `cd /D %ReturnSlot%` |
 
-Save the two files in a folder that is in the %PATH% variable
+Copy the Contents into each file, note that there is only one line in the batch files.
+
+Save the two files in a folder that is in the %PATH% variable.
 
 To run the quick demo, do the following from a command prompt.
 
-in the current directory, type in sp.cmd and press enter.
+In the current directory, type in `sp.cmd` and press enter.
 
-this saves the current directory as a slot.
+This saves the current directory as a slot.
 
-navigate to another folder.
+Navigate to another folder.
 
-in the folder, type in rt.cmd and press enter.
+In the folder, type in `rt.cmd` and press enter.
 
-the command will return you to the folder where you saved the path (slot)
+The command will return you to the folder where you saved the path (slot).
 
-| Future arguments | explanation |
+Will be updating the apps every week or two till complete.
+
+| Future arguments | Explanation |
 | --- | --- |
 | Numbers | numbered slots 1-9 |
 | Letters | lettered slots A-G |
@@ -39,5 +44,7 @@ the command will return you to the folder where you saved the path (slot)
 | Restore | restores slots from file |
 | Save | saves slots to file |
 | Show | shows the used slots |
-| Ver | shows the slot version |
+| Ver | shows the savepath version |
 | Misc | additional error control |
+| Misc | save to program files x86 |
+
