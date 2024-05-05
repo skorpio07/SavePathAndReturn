@@ -1,3 +1,7 @@
+![Alt](https://repobeats.axiom.co/api/embed/64efede69a455df79704d6788a7fc5a23b7140d9.svg "Repobeats analytics image")
+[![My Skills](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
+https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+
 For non commercial use
 
 For commercial use, apps have been developed and are in testing. Stay tuned.
