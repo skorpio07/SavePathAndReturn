@@ -1,2 +1,2 @@
 @echo off
-%tmp%\ReturnDir.cmd
+%spar%\ReturnDir.cmd
