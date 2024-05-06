@@ -7,7 +7,7 @@ For commercial use, apps have been developed and are in testing. Stay tuned.
 
 These programs are for anyone that lives in the command line interface (ie cmd.exe) and
 changes folders frequently. while this shows only one slot being saved, it will be enhanced to
-save many slots with additional enhancments.
+save many slots with additional enhancements.
 
 The core of this Project are two files, SavePath and Return,
 
