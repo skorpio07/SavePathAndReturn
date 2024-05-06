@@ -51,3 +51,5 @@ Will be updating the apps every week or two till complete.
 | Ver | shows the savepath version |
 | Misc | error control |
 | Misc | save to program files x86 |
+
+[Click to open the Outline](Outline.md)
