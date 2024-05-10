@@ -54,8 +54,6 @@ Will be updating the apps every week or two till complete.
 | Misc | error control |
 | Misc | save to program files x86 |
 
-[Click to open the Outline](Outline.md)
-
 [Site Links](SiteLinks.md)
 
 [Pages](https://skorpio07.github.io/SavePathAndReturn/)
