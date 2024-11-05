@@ -1,13 +1,15 @@
 ![Alt](https://repobeats.axiom.co/api/embed/64efede69a455df79704d6788a7fc5a23b7140d9.svg "Repobeats analytics image")
 [![My Skills](https://skillicons.dev/icons?i=autocad,cs,codepen,devto,discord,dotnet,github,gmail,html,ai,instagram,linkedin,lua,md,robloxstudio,stackoverflow,twitter,ubuntu,visualstudio,vscode,windows,wordpress)](https://skillicons.dev)
 
+<img src="SavePathLogo.png" alt="text if the image fails to load" title="Proudly name in America!" width="200" height="200">
+
 For non commercial use
 
 For commercial use, apps have been developed and are in testing. Stay tuned.
 
 These programs are for anyone that lives in the command line interface (ie cmd.exe) and
 changes folders frequently. while this shows only one slot being saved, it will be enhanced to
-save many slots with additional enhancments.
+save many slots with additional enhancements.
 
 The core of this Project are two files, SavePath and Return,
 
@@ -52,4 +54,6 @@ Will be updating the apps every week or two till complete.
 | Misc | error control |
 | Misc | save to program files x86 |
 
-Link to ./Return.cmd
+[Site Links](SiteLinks.md)
+
+[Pages](https://skorpio07.github.io/SavePathAndReturn/)

@@ -1,0 +1,96 @@
+Did you know that just about every page on GitHub has a keyboard shortcut? In this newsletter, we'll uncover the world of GitHub keyboard shortcuts and how they can help you navigate and perform actions swiftly. ⌨️
+
+After reading this newsletter, you’ll be able to:
+
+💡 Master the shortcuts. You might be asking, how can I access said shortcuts? Simply by typing “?” on any Github page!* These shortcuts will empower you to perform various actions across the site without relying on your mouse.
+
+🔧 Customize your experience. You can tailor your shortcut experience by enabling or disabling character key shortcuts according to your preferences, all within your accessibility settings. For more information, see "Managing accessibility settings."
+
+🎩 Make magic. With the GitHub Command Palette, you can effortlessly navigate, search, and execute commands on GitHub—all without the need to memorize multiple keyboard combinations. To open the command palette, type in this combo:
+
+Windows and Linux: “Ctrl+K” or “Ctrl+Alt+K”
+Mac: “Command+K” or “Command+Option+K”
+*Please note: not all shortcuts are available on every page. When you open the shortcut window (“?”), it will provide you with the available keyboard shortcuts.
+
+
+A gif of our newsletter author playing around with the notifications keyboard shortcut—and loving it!
+
+Ready to give your mouse a break? Let’s dive into some top keyboard shortcuts to get you started.
+
+🚀 Navigation
+Tap these keys to navigate your way around our platform with ease:
+
+T: Quick access to "File Finder."
+W: Close the currently open tab or pull request.
+S: Focus on the site search bar.
+G, P: Jump to your profile.
+
+📂 Repository navigation
+These shortcuts will guide you through your repositories:
+
+G, I: Jump to your issues.
+G, P: Navigate to your pull requests.
+G, B: Head to your repository.
+G, C: Visit your repository's code.
+
+👨‍💻 Code editing
+Edit your source code in seconds with these shortcuts:
+
+.: Opens a repository or pull request in the github.dev editor.
+>: Opens a repository or pull request in the github.dev editor.
+E: Open source code file in the Edit file tab.
+Command, Shift, P: Toggles between the Edit file and Preview changes tabs.
+
+📦 Code browsing
+Find the source code you need on the double:
+
+T: File finder for code browsing.
+L: Add a line comment.
+T: Add a file comment.
+W: Close or reopen a pull request review.
+
+📝 Issues and pull requests
+Spin up issues and pull requests with one single keystroke:
+
+C: Create a new issue.
+Y: Close an issue or pull request.
+R: Reopen a closed issue or pull request.
+K: Move up the discussion timeline.
+J: Move down the discussion timeline.
+
+🔍 Search
+Quickly spin up a search bar to find what you need right when you need it:
+
+/: Start a quick search.
+S: Focus on the site search bar.
+F: Search within the code in a repository.
+T: File finder for code search.
+W: View code in a workspace.
+
+📎 Notifications
+Stay on top of your projects with a hop on over to your notifications:
+
+G, N: Go to your notifications.
+
+📤 Create and submit
+Spin up a new repository or view your issues in a flash:
+
+N: Create a new repository.
+I: Go to your issues.
+P: Navigate to your pull requests.
+B: Visit your repository.
+
+🗄️ Repository actions
+Quickly archive or add a collaborator to your repos at the push of a button:
+
+Y: Archive or unarchive your repository.
+A: Add a collaborator to your repository.
+
+🔒 Security
+Keep abreast of your security posture by navigating to your settings with ease:
+
+G, S: Navigate to your security settings.
+
+With these keyboard shortcuts under your belt, you’ll become a GitHub power user in no time. And remember, you don’t have to commit all of these to memory—the GitHub Command Palette has all that covered for you.
+
+Want to know what other GitHub users’ favorite keyboard shortcuts are? Take a look through the comments on this video. And to further boost your productivity on GitHub, you can explore GitHub Actions—an integrated automation and CI/CD service within your repositories. GitHub Actions streamlines code-related tasks and development by defining event-triggered workflows; check it out today!
